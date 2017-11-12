@@ -1,3 +1,6 @@
+https://www.portofoliogr.com/java-i-source-code/
+
+
 # JavaLotto
 //console base 
 //insert integers
